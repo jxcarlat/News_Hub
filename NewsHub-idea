@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-02T15:40:52.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="42pKonLUzqjxw_nrrD-b" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-02T16:13:01.945Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="xklBFdWC-2w13zT3niG6" version="13.5.8" type="github">
   <diagram id="kVFQ9lSy8JW1CMS72kr8" name="Page-1">
     <mxGraphModel dx="1038" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -60,6 +60,93 @@
         </mxCell>
         <mxCell id="DSPb-uvz6EfT5nqM-5iR-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;index.html&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="-110" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="940" width="640" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="940" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-29" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;NewsHub&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="950" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1000" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-31" value="Home" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1020" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-32" value="About" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1020" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-33" value="Links" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1020" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1060" width="640" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1140" width="640" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1520" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Science&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; US&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Politics&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; World&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1520" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-44" value="This will contain a ScienceDaily link to Science and New York Times article links to US, Politics, World news" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1560" width="640" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-45" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;about.html&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="77.49" y="880" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;About Us&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="94" y="1060" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-47" value="&lt;h1&gt;Why NewsHub?&lt;/h1&gt;&lt;div&gt;Contains information of why users should use NewsHub for their Daily Digest. We can include information on information overload and how today users are constantly being conflicted with analysis paralysis when looking for valuable sources of information. This could include a chart that details percentages on decision making and attention span of people going through options. We also detail why we chose science as a partner article to a regular news article on the main page and why we would favor that over others such as Business or Sports.&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1140" width="640" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-48" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1880" width="640" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1880" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-50" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;NewsHub&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1890" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1940" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-52" value="Home" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1960" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-53" value="About" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1960" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-54" value="Links" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1960" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-62" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;links.html&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1830" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-63" value="&lt;h1&gt;Science Article&lt;/h1&gt;&lt;p&gt;Details featured scientific breakthrough or news daily and will size itself with the window accordingly.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="2000" width="290" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-64" value="&lt;h1&gt;New York Times&lt;/h1&gt;&lt;div&gt;Displays featured New York Times article and will size itself based on the current window size.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="2000" width="330" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-65" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="189.05" y="2206.57" width="461.88" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="2460" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-59" value="This will contain a ScienceDaily link to Science and New York Times article links to US, Politics, World news" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="99.99" y="2500" width="640" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DSPb-uvz6EfT5nqM-5iR-58" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Science&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; US&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Politics&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; World&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="99.99" y="2460" width="640" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
