@@ -3,12 +3,45 @@ body {
 }
 
 h1, h2, h3 {
-    font-family: "Lobster", cursive;
+    font-family: "Franklin Gothic";
 }
 
 .jumbotron {
     margin: 0;
     padding: 30px;
-    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
+    background-image: linear-gradient(to right, #444444, #333333, #000000);
     color: white;
 }
+
+.navbar {
+    background-image: linear-gradient(to left bottom, #444444, #333333, #000000);
+}
+
+
+.site-footer {
+    background-image: linear-gradient(to left bottom, #444444, #333333, #000000);
+    color: white;
+    padding: 20px 0;
+}
+
+#bottom-padding {
+    padding: 0px;
+}
+
+blockquote {
+    padding: 50px;
+    border: 20px;
+}
+
+.mycontent-right {
+    padding: 15px;
+    border-left: 1px solid #333;
+  }
+
+  #head-margin {
+      margin-top: 15px;
+  }
+
+  #highlighting {
+      color: black;
+  }

@@ -32,9 +32,114 @@
             </div>
         </div>
     </header>
-<!-- jQuery must come first, then Popper.js, then the Bootstrap JavaScript plugins.-->
-<script src="node_modules/jquery/dist/jquery.slim.min.js"></script>
-<script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
-<script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <nav class="navbar navbar-expand-sm navbar-dark sticky-top">
+        <div class="container">
+            <button class="navbar-toggler" type="button"
+            data-toggle="collapse" data-target="#portfolioNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="portfolioNavbar">
+                <ul class="navbar-nav">
+                    <li class="nav-item active"><a class="nav-link" 
+                    href="#"><i class="fa fa-home fa-lg"></i> Home</a></li>
+                    <li class="nav-item"><a class="nav-link"
+                    href="about.html"><i class="fa fa-info fa-lg"></i> About</a></li>
+                    <li class="nav-item"><a class="nav-link"
+                    href="links.html"><i class="fa fa-list fa-lg"></i> Links</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+    <div class="row">
+        <div class="col-6 span6 text-center">
+          <div class="mycontent-left"><h2 id="head-margin">New York Times</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+          Sed rhoncus, ex vitae molestie semper, arcu tortor 
+          vulputate nunc, in suscipit purus nisl at lorem. 
+          Morbi lacus nisl, elementum accumsan velit et, lobortis 
+          finibus risus. Ut accumsan, nunc a sollicitudin lobortis, 
+          libero ligula sollicitudin neque, quis bibendum magna 
+          lacus feugiat velit. Aenean laoreet dolor eleifend, interdum 
+          felis ac, molestie risus. Duis rhoncus metus et dictum molestie. 
+          Nullam porttitor consequat tortor, nec ullamcorper purus 
+          interdum id. Cras laoreet nisi ac faucibus consectetur. Fusce 
+          a pretium metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+          Sed rhoncus, ex vitae molestie semper, arcu tortor 
+          vulputate nunc, in suscipit purus nisl at lorem. 
+          Morbi lacus nisl, elementum accumsan velit et, lobortis 
+          finibus risus. Ut accumsan, nunc a sollicitudin lobortis, 
+          libero ligula sollicitudin neque, quis bibendum magna 
+          lacus feugiat velit. Aenean laoreet dolor eleifend, interdum 
+          felis ac, molestie risus. Duis rhoncus metus et dictum molestie. 
+          Nullam porttitor consequat tortor, nec ullamcorper purus 
+          interdum id. Cras laoreet nisi ac faucibus consectetur. Fusce 
+          a pretium metus.</p>
+          </div>
+        </div>
+        <div class="col-6 span6 text-center">
+          <div class="mycontent-right"><h2>ScienceDaily</h2>
+          <p>Ut ultricies a odio sed sodales. Donec malesuada, dui in 
+          fermentum iaculis, ex nibh iaculis augue, non mattis dui sem 
+          ut est. Aenean et diam ullamcorper, laoreet elit a, posuere 
+          velit. Sed porttitor pellentesque ex. Cras lacus nisi, 
+          sodales at erat vitae, sagittis fringilla nunc. Duis a urna 
+          efficitur, ornare metus sed, sollicitudin tellus. Phasellus 
+          ultricies egestas hendrerit. Aenean imperdiet sed felis nec 
+          aliquam. Nam aliquam dignissim enim sed laoreet. In facilisis 
+          lacus ex, ut imperdiet massa fringilla nec. In ac nulla eget 
+          neque sagittis luctus sit amet a augue. Vivamus dignissim 
+          ipsum vel lacus accumsan molestie. Phasellus nulla ex, 
+          iaculis a viverra at, consectetur at sapien. Fusce nisl sem, 
+          sodales vel cursus in, pretium at nunc. Integer vitae elit 
+          in urna auctor consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+          Sed rhoncus, ex vitae molestie semper, arcu tortor 
+          vulputate nunc, in suscipit purus nisl at lorem. 
+          Morbi lacus nisl, elementum accumsan velit et, lobortis 
+          finibus risus. Ut accumsan, nunc a sollicitudin lobortis, 
+          libero ligula sollicitudin neque, quis bibendum magna 
+          lacus feugiat velit. Aenean laoreet dolor eleifend, interdum 
+          felis ac, molestie risus. Duis rhoncus metus et dictum molestie. 
+          Nullam porttitor consequat tortor, nec ullamcorper purus 
+          interdum id. Cras laoreet nisi ac faucibus consectetur. Fusce 
+          a pretium metus.</p>
+          </div>
+        </div>
+      </div>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-3 col-sm-2 offset-1">
+                    <a class="btn btn-link" href="https://www.sciencedaily.com/">
+                    <h5>Science</h5></a>
+                </div>
+                <div class="col-3 col-sm-3 text-center">
+                    <a class="btn btn-link" href="https://www.nytimes.com/section/us">
+                    <h5>US</h5></a>
+                </div>
+                <div class="col-3 col-sm-3 text-center">
+                    <a class="btn btn-link" href="https://www.nytimes.com/section/politics">
+                    <h5>Politics</h5></a>
+                </div>
+                <div class="col-3 col-sm-3 text-center">
+                    <a class="btn btn-link" href="https://www.nytimes.com/section/world">
+                    <h5>World</h5></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery must come first, then Popper.js, then the Bootstrap JavaScript plugins.-->
+    <script src="node_modules/jquery/dist/jquery.slim.min.js"></script>
+    <script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="js/scripts.js"></script>
+
+    <script>
+        topStories();
+    </script>
+
 </body>
 </html>

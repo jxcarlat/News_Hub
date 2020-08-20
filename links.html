@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css" />
+
+    <!-- Additional CSS must be placed after Bootstrap CSS -->
+    <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="node_modules/bootstrap-social/bootstrap-social.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster|Open+Sans" />
+    <link rel="stylesheet" href="css/styles.css" />
+
+    <title>NewsHub</title>
+</head>
+<body>
+
+    <header class="jumbotron jumbotron-fluid">
+        <div class="container">
+            <div class="row">
+               <!--<div class="col-4 col-sm-3 col-md-2 align-self-center">
+                   <img src="img/logo.png" class="img-fluid" /> 
+                </div>-->
+                <div class="col">
+                    <h1>NewsHub</h1>
+                    <h2>Get the news</h2>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <nav class="navbar navbar-expand-sm navbar-dark sticky-top">
+        <div class="container">
+            <button class="navbar-toggler" type="button"
+            data-toggle="collapse" data-target="#portfolioNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="portfolioNavbar">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link" 
+                    href="index.html"><i class="fa fa-home fa-lg"></i> Home</a></li>
+                    <li class="nav-item"><a class="nav-link"
+                    href="about.html"><i class="fa fa-info fa-lg"></i> About</a></li>
+                    <li class="nav-item active"><a class="nav-link"
+                    href="#"><i class="fa fa-list fa-lg"></i> Links</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+            <div class="row">
+                <div class="col">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a
+                        href="index.html">Home</a></li>
+                        <li class="breadcrumb-item active">Links</li>
+                    </ol>
+                    <hr />
+                </div>
+            </div>
+        <div class="row">
+            <div class="col-6 span6">
+                <div class="mycontent-left text-center"><h2 id="head-margin">New York Times Links</h2>
+                    <div class="row">
+                        <div class="col-3 col-sm-2 offset-lg-1">
+                            <a class="btn btn-link" id="highlighting" href="https://www.nytimes.com/section/business">
+                            <h3>Business</h3></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.nytimes.com/section/business/economy">
+                            <h4 class="d-none d-sm-block">Econ</h4></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.nytimes.com/section/technology">
+                            <h4 class="d-none d-sm-block">Tech</h4></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.nytimes.com/section/business/media">
+                            <h4 class="d-none d-sm-block">Media</h4></a>
+                        </div>
+                        <div class="col-3 offset-4">
+                            <a class="btn btn-link" id="highlighting" href="https://www.nytimes.com/section/health">
+                            <h3>Health</h3></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.nytimes.com/section/well">
+                            <h4 class="d-none d-sm-block">Well</h4></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.nytimes.com/column/global-health">
+                            <h4 class="d-none d-sm-block">Global Health</h4></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.nytimes.com/section/science">
+                            <h4 class="d-none d-sm-block">Science</h4></a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-3 col-sm-2 offset-lg-1">
+                            <a class="btn btn-link" id="highlighting" href="https://www.nytimes.com/section/arts">
+                            <h3>Arts</h3></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.nytimes.com/section/arts/design">
+                            <h4 class="d-none d-sm-block">Art & Design</h4></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.nytimes.com/section/books">
+                            <h4 class="d-none d-sm-block">Books</h4></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.nytimes.com/section/movies">
+                            <h4 class="d-none d-sm-block">Movies</h4></a>
+                        </div>
+                        <div class="col-3 offset-4">
+                            <a class="btn btn-link" id="highlighting" href="https://www.nytimes.com/section/travel">
+                            <h3>Travel</h3></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.nytimes.com/column/36-hours">
+                            <h4 class="d-none d-sm-block">36 Hours</h4></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.nytimes.com/column/frugal-traveler">
+                            <h4 class="d-none d-sm-block">Frugal Traveler</h4></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.nytimes.com/interactive/2020/travel/places-to-visit.html">
+                            <h4 class="d-none d-sm-block">52 Places To Go</h4></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 span6 text-center">
+                <div class="mycontent-right"><h2>ScienceDaily Links</h2>
+                    <div class="row">
+                        <div class="col-3 col-sm-2 col-md-3 offset-lg-1">
+                            <h3>Tech</h3>
+                            <a class="btn btn-link" id="highlighting" href="https://www.sciencedaily.com/news/computers_math/">
+                            <h4 class="d-none d-sm-block">Computers & Math</h4></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.sciencedaily.com/news/space_time/">
+                            <h4 class="d-none d-sm-block">Space & Time</h4></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.sciencedaily.com/news/matter_energy/">
+                            <h4 class="d-none d-sm-block">Matter & Energy</h4></a>
+                        </div>
+                        <div class="col-3 offset-sm-4 offset-md-5 offset-lg-3">
+                            <h3>Enviro</h3>
+                            <a class="btn btn-link" id="highlighting" href="https://www.sciencedaily.com/news/plants_animals/">
+                            <h4 class="d-none d-sm-block">Plants & Animals</h4></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.sciencedaily.com/news/earth_climate/">
+                            <h4 class="d-none d-sm-block">Earth & Climate</h4></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.sciencedaily.com/news/fossils_ruins/">
+                            <h4 class="d-none d-sm-block">Fossils & Ruins</h4></a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-3 col-sm-2 offset-lg-1">
+                            <h3>Health</h3>
+                            <a class="btn btn-link" id="highlighting" href="https://www.sciencedaily.com/news/health_medicine/">
+                            <h4 class="d-none d-sm-block">Health & Medicine</h4></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.sciencedaily.com/news/mind_brain/">
+                            <h4 class="d-none d-sm-block">Mind & Brain</h4></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.sciencedaily.com/news/living_well/">
+                            <h4 class="d-none d-sm-block">Living Well</h4></a>
+                        </div>
+                        <div class="col-3 offset-sm-4 offset-md-5 offset-lg-4">
+                            <h3>Society</h3>
+                            <a class="btn btn-link" id="highlighting" href="https://www.sciencedaily.com/news/science_society/">
+                            <h4 class="d-none d-sm-block">Science & Society</h4></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.sciencedaily.com/news/business_industry/">
+                            <h4 class="d-none d-sm-block">Business & Industry</h4></a>
+                            <a class="btn btn-link" id="highlighting" href="https://www.sciencedaily.com/news/education_learning/">
+                            <h4 class="d-none d-sm-block">Education & Learning</h4></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-3 col-sm-2 offset-1">
+                    <a class="btn btn-link" href="https://www.sciencedaily.com/">
+                    <h5>Science</h5></a>
+                </div>
+                <div class="col-3 col-sm-3 text-center">
+                    <a class="btn btn-link" href="https://www.nytimes.com/section/us">
+                    <h5>US</h5></a>
+                </div>
+                <div class="col-3 col-sm-3 text-center">
+                    <a class="btn btn-link" href="https://www.nytimes.com/section/politics">
+                    <h5>Politics</h5></a>
+                </div>
+                <div class="col-3 col-sm-3 text-center">
+                    <a class="btn btn-link" href="https://www.nytimes.com/section/world">
+                    <h5>World</h5></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery must come first, then Popper.js, then the Bootstrap JavaScript plugins.-->
+    <script src="node_modules/jquery/dist/jquery.slim.min.js"></script>
+    <script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+</body>
+</html>
